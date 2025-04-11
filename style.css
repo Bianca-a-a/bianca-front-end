@@ -9,14 +9,15 @@ p {
 h1 {
     color: aliceblue;
     text-align: center;
-    font-size: 60px;
+    font-size: 50px;
 }
 h2 {
     color: aliceblue;
     text-align: center;
     font-size: 35px;
 }
-#nome {
-    width: 100%;
-    border: none;
+h3 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 25px;
 }
