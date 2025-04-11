@@ -9,7 +9,12 @@ p {
 h1 {
     color: aliceblue;
     text-align: center;
-    font-size: 50px;
+    font-size: 60px;
+}
+h2 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 35px;
 }
 #nome {
     width: 100%;
