@@ -21,3 +21,18 @@ h3 {
     text-align: center;
     font-size: 25px;
 }
+h4 {
+    color: aliceblue;
+    text-align: left;
+    font-size: 25px;
+}
+ol {
+    color: aliceblue;
+    font-size: 20px;
+}
+img {
+    box-sizing: border-box;
+    border-radius: 0%;
+    border-style: none;
+    border-spacing: 0cap;  
+}
