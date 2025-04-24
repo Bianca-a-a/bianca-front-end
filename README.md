@@ -38,3 +38,27 @@ O pequeno vídeo é uma cena não-oficial, já que ocorreu de não ser adicionad
 <img src="img\img read me\l texto style.png">
 
 ### Fotos e Textos II
+Igualmente a explicação sobre "Fotos e Textos I", a foto foi adicionada para o raciocínio dos personagens com seus atores e etc. Tendo também um resumo sobre como entraram para a GMM e em quais séries trabalhavam.
+
+<img src="img\img read me\m gif style.png">
+
+### Gif II
+Também é uma "quebra" de personagens misturado com uma finalização desta parte.<br>
+O vídeo mostra um momento que ocorreu durante a série - diferente do outro - em que realmente teve uma quebra de clima proposital, deixando de ser o clima tenso anterior para aliviar o momento, se tornando também, um "meme" dos fãs e um dos momentos mais icônicos.
+
+<img src="img\img read me\n lista de recomendações.png">
+
+### Recomendações
+A parte de recomendações possui três divisões:
+<li> Recomendações com eles;
+<li>Outras recomendações;
+<li>Recomendações de séries ainda não postadas.
+<br><br>
+"Recomendações com eles" são séries em que pelo menos um dos casais aparece, sendo principal.<br>
+<br>"Outras recomendações" são séries diversas de outros atores e com promissas diferentes, dos quais todos eu ja vi pelo menos um episódio caso não tenha assistido inteiro.<br>
+<br>"Recomendações de séries" É a parte em que séries ainda não lançadas estão sendo recomendadas. Mesmo sem ter assistido, a sinopse parece boa e os trailers já lançados prenderam a atenção de boa parte do público que assistiu, então apenas isso já dá certa "esperança" sobre a história ser boa, bem escrita e com uma cinematografia maravilhosa.<br>
+
+<br><img src="img\img read me\o foto final.png">
+
+### Finalização
+A foto colocada por último indica o final da página para que este canto não fique vazio ou que termine com as recomendações muito no fundo dá página de forma estranha.
